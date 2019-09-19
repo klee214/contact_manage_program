@@ -1,8 +1,5 @@
 /* -------------------------------
 Name: Kimin Lee
-Student number: 133221184
-Email: klee214
-Section:SJJ
 Date: 2019 3 15
 
 ---------------------------------- */
