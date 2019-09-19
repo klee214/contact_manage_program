@@ -1,8 +1,5 @@
 /* -------------------------------------------
 Name: Kimin Lee
-Student number: 1332221184
-Email: klee214
-Section: SJJ
 Date: 2019 3 15
 Description:
 This program is contact management system for saving contact information.
